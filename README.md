@@ -1,6 +1,6 @@
 # Industry’s Cry for Tools that Support Large-Scale Refactoring: Study Artifacts
 
-This artifact contains the study materials for the ICSE SEIP '22 submission, "Industry’s Cry for Tools that Support Large-Scale Refactoring."
+This artifact contains the study materials for the paper "Industry’s Cry for Tools that Support Large-Scale Refactoring."
 
 This study was conducted by the following investigators:
 
@@ -22,4 +22,4 @@ Below is a description of the contents of this repository:
 * [survey-questions.pdf](./survey-questions.pdf): describes the online questionnaire that was given to participants
 * [survey-responses](./survey-responses.xlsx): provides anonymized survey responses, together with the final set of codes that were attached to each individual response. Note that, out of an abundance of caution, the responses for each open-ended question are randomized.
 * [codebook.pdf](./codebook.pdf): provides a description of each of the unique codes that were identified for each open-ended survey question
-* [2022-icse-seip.ipynb](./2022-icse-seip.ipynb): the Jupyter notebook that was used to produce the figures in the paper
+* [2022-lsr_survey.ipynb](./2022-lsr_survey.ipynb): the Jupyter notebook that was used to produce the figures in the paper
