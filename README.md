@@ -1,6 +1,15 @@
-# Industry’s Cry for Tools that Support Large-Scale Refactoring: Study Artifacts
+# Large-Scale Refactoring Study Artifacts
 
-This artifact contains the study materials for the paper "Industry’s Cry for Tools that Support Large-Scale Refactoring."
+This artifact contains the study materials for the following papers:
+
+* J. Ivers, R. L. Nord, I. Ozkaya, C. Seifried, C. S. Timperley and M. Kessentini, 
+  "Industry's Cry for Tools that Support Large-Scale Refactoring," *IEEE/ACM 
+  44th International Conference on Software Engineering: Software Engineering in 
+  Practice (ICSE-SEIP)*, 2022.
+
+* J. Ivers, R. L. Nord, I. Ozkaya, C. Seifried, C. S. Timperley, and M. Kessentini, 
+  "Industry Experiences with Large-Scale Refactoring," *30th ACM Joint European Software
+  Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’22)*, 2022.
 
 This study was conducted by the following investigators:
 
